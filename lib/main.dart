@@ -7,7 +7,7 @@ void main() {
 }
 
 // ── REPLACE THIS WITH YOUR GEMINI API KEY ──
-const String geminiApiKey = 'AIzaSyAUTzAogmlqkj-4xy0WNuqmu6zOoHQUSLM';
+const String geminiApiKey = 'YOUR_GEMINI_API_KEY_HERE';
 const String geminiUrl =
     'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=$geminiApiKey';
 
